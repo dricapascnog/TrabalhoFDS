@@ -1,0 +1,35 @@
+.central {text-align: center;}
+h1{
+    color:darkblue;
+    text-align: center;
+    font-size: 40px;
+}
+h1.supertitulo{
+    font-size: 200px;
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+/*Coloquei este font-size para melhor leitura*/    
+}
+
+#tituloprincipal{font-size: 80px; color: darkred;}
+p{background-color: darksalmon;}
+p{background-color: fuchsia;}
+
+body{
+    background-color:aquamarine;
+
+}
+
+img {
+    border:2px preto;
+    border-radius: 15px;
+
+}
+
+a:hover {
+  color: hotpink;
+}
+
+
